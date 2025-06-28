@@ -59,7 +59,7 @@ O processo geral de construção envolveu os seguintes passos:
 Ficou interessado(a) no meu trabalho ou tem alguma pergunta? Sinta-se à vontade para entrar em contato!
 
 * **GitHub:** [https://github.com/AgathaKarenne32](https://github.com/AgathaKarenne32)
-* **LinkedIn:** [] *(Lembre-se de substituir este texto pelo seu link real do LinkedIn)*
-* **Email:** [agathakmachado5@gmail.com] *(Lembre-se de substituir este texto pelo seu email real)*
+* **LinkedIn:** [https://www.linkedin.com/in/agathamachado32/] 
+* **Email:** [agathakmachado5@gmail.com] 
 
 ---
